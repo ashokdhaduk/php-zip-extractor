@@ -1,0 +1,1 @@
+This is a simple PHP Library that extracts zip files using ZipArchive and uses PCLZip as a fallback.
